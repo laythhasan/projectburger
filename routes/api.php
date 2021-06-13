@@ -45,6 +45,7 @@ Route::put("updateCategory/{id}",[Burgercontroller::class,'updateCategory']);
 Route::put("updateProduct/{id}",[ProductController::class,'updateProduct']);
 
 //layth hasan 
+//layth
 
 
 
